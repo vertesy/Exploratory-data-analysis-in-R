@@ -10,7 +10,9 @@ In this course we will focus on practical programming skills in R to visualize a
 
 ### Resources 
 
-Reading                                            <https://vertesy.github.io/Exploratory-data-analysis-in-R/>
+Overview                                            <https://vertesy.github.io/Exploratory-data-analysis-in-R/>
+
+Reading                                          <http://bit.ly/Readings_R_DATA_ANALYSIS>
 
 Schedule [will be available later]:        <http://bit.ly/Schedule_R_DATA_ANALYSIS>
 
