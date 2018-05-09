@@ -1,9 +1,13 @@
-# Exploratory-data-analysis-in-R
-
 
 ## Intro
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LVupWKz085c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+You can learn about the R programming language and editor at Rstudio [here](https://scholar.harvard.edu/dromney/online-resources-learning-r) and [here](https://www.rstudio.com/online-learning/#r-programming).
+
+
 
 ## Schedule
 
