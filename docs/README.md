@@ -85,7 +85,7 @@ Please find additional information on the links below. Some of them will only be
 
 ### Registration
 
-- Apply for the course [online](https://goo.gl/forms/kLacWZkMCS3B2hrG3).å
+- Apply for the course [online](https://goo.gl/forms/kLacWZkMCS3B2hrG3).
 
 
 
