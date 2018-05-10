@@ -7,7 +7,7 @@ A 5 days summer course on data analysis and visualization in R.
 Some details to be specified later.
 
 | Date \| Course A     | Mon, Wed, Fri →  Tue, Thu \|  9-19 July                      |
-| -------------------- | ------------------------------------------------------------ |
+| -------------------- | :----------------------------------------------------------- |
 | **Date \| Course B** | **Tue, Thu → Mon, Wed, Fri \|  10-20 July**                  |
 | **Time**             | Every other working day, 10AM-5PM  (+assignments for gap days) |
 | **Location**         | Accra campus of Uni. Ghana; Room T.B.A.                      |
