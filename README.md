@@ -8,6 +8,8 @@ In this course we will learn about some basic concepts is data analysis and will
 
 #### Resources
 
+Please find additional information on the links below. Some of them will only be available / completed later.
+
 - Overview and details are on the [**course website**](https://vertesy.github.io/Exploratory-data-analysis-in-R/).
 - Readings: <http://bit.ly/Readings_R_DATA_ANALYSIS>
 - Schedule: <http://bit.ly/Schedule_R_DATA_ANALYSIS>
@@ -18,14 +20,14 @@ In this course we will learn about some basic concepts is data analysis and will
 ###  Topics covered
 
 - R programming to explore and visualize data.
-- Concepts and best practices in **data analysis**
+- Concepts and best practices in **data analysis**.
   - Why programming instead of Excel?
   - Data storage and data sharing
   - Metadata
   - Finding relationships between variables
   - Summarizing 
   - Variation and statistics
-- Concepts and best practices in **Visualization**
+- Concepts and best practices in **visualization**.
   - Visualization for different goals
   - Showing summarized or raw data  
   - Scatterplots, bar plots, box plots, violin plots, strip charts,  pie charts, venn diagrams, etc.
