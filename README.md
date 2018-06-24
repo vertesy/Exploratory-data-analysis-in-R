@@ -1,6 +1,8 @@
 # Exploratory data analysis in R
 
+### News
 
+Join the [EDA - Exploratory data analysis in R course email group](https://groups.google.com/d/forum/r-2018-accra)!
 
 ### About the course
 
