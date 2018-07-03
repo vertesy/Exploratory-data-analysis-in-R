@@ -10,7 +10,7 @@ Some details to be specified later.
 | -------------------- | :----------------------------------------------------------- |
 | **Date \| Course B** | **Tue, Thu → Mon, Wed, Fri \|  10-20 July**                  |
 | **Time**             | Every other working day, 10AM-5PM  (+assignments for gap days) |
-| **Location**         | Accra campus of Uni. Ghana; Room T.B.A.                      |
+| **Location**         | Accra campus of Uni. Ghana; Room **MPhil Lecture Hall.**     |
 
 
 
