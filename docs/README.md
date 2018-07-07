@@ -2,6 +2,14 @@ A 5 days summer course on data analysis and visualization in R.
 
 
 
+### News
+
+**Change in schedule due to the WACCBIP conference!**
+
+**The conference takes place 18-20 July, therefore the final day for A, and the final 2 days for B are postponed to the next week. Please see the calendar at the bottom for details.**
+
+
+
 ### Date, Time & Location
 
 Some details to be specified later.
