@@ -97,5 +97,8 @@ Please find additional information on the links below. Some of them will only be
 
 ### Calendar
 
-
 <iframe src="https://calendar.google.com/calendar/embed?title=Summer%20Courses%20Accra&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffcc66&amp;src=j1ia6mq3lldpjj0k7g7p1bei44%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Africa%2FAccra&dates=20180701%2F20180810" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+### Location
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1985.2011706141207!2d-0.19056824197952388!3d5.654796698975233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf9c7ce1022295%3A0xed11bbdcfe5d75d7!2sDepartment+of+Biochemistry%2C+Cell+and+Molecular+Biology%2C+Volta+Rd%2C+Accra!5e0!3m2!1sen!2sgh!4v1531157215019" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
