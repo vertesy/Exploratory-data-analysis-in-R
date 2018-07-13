@@ -5,11 +5,13 @@ A 5 days summer course on data analysis and visualization in R.
 ### News
 
 - Sign up for the  [**google group**](https://groups.google.com/forum/#!forum/r-2018-accra) for future email communication.
-- **Course materials** are online on [google drive](goo.gl/vMUXAk).
+- **Course materials** are online on google drive: [goo.gl/vMUXAk](http://goo.gl/vMUXAk)
 - Fill out the **Feedback** form, if you did not yet do it: https://goo.gl/forms/DDXXFoAuLIxKqz9e2
 - *Change in schedule due to the WACCBIP conference!**
 
-**The conference takes place 18-20 July, therefore the final final 2 days are postponed to the following week. Please see the calendar at the bottom for details.**
+**The conference takes place 18-20 July, therefore the final final 2**
+
+** days are postponed to the following week. Please see the calendar at the bottom for details.**
 
 
 
