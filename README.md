@@ -1,30 +1,23 @@
 # Exploratory data analysis in R
 
-### News
-
-- Sign up for the  [**google group**](https://groups.google.com/forum/#!forum/r-2018-accra) for future email communication.
-- **Course materials** are online on google drive: [goo.gl/vMUXAk](http://goo.gl/vMUXAk)
-- Fill out the **Feedback** form, if you did not yet do it: https://goo.gl/forms/DDXXFoAuLIxKqz9e2
-- *Change in schedule due to the WACCBIP conference!**
-
-**The conference takes place 18-20 July, therefore the final final 2**
-
-** days are postponed to the following week. Please see the calendar at the bottom for details.**
-
 ### About the course
 
 In this course we will learn about some basic concepts is data analysis and will learn how to make simple analyses in R. We will focus on practical programming skills in R to visualize and analyze various data sets. We will work a lot with visualization, both for exploring larger datasets and making figures. I encourage to take a look to some of the excellent online resources in advance! You can learn about the R programming language and editor at Rstudio [here](https://scholar.harvard.edu/dromney/online-resources-learning-r) and [here](https://www.rstudio.com/online-learning/#r-programming).
 
+
 #### Resources
+
+- **Course materials** are online on google drive: [goo.gl/vMUXAk](http://goo.gl/vMUXAk)
+- Sign up for the  [**google group**](https://groups.google.com/forum/#!forum/r-2018-accra) for future email communication.
+- Contact: summer.course.2018.accra _AT_ gmail.com
 
 Please find additional information on the links below. Some of them will only be available / completed later.
 
 - Overview and details are on the [**course website**](https://vertesy.github.io/Exploratory-data-analysis-in-R/).
 - Readings: <http://bit.ly/Readings_R_DATA_ANALYSIS>
-- Schedule: <http://bit.ly/Schedule_R_DATA_ANALYSIS>
-- Application for the course [online](https://goo.gl/forms/Y1OGDVQH70wExfhA2).
-- Contact: summer.course.2018.accra _AT_ gmail.com
+- Application for the course [online](https://goo.gl/forms/Y1OGDVQH70wExfhA2). \[Closed\]
  
+
 ### Date, Time & Location
 
 Some details to be specified later.
