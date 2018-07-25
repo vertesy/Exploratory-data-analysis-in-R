@@ -16,7 +16,7 @@ Please find additional information on the links below. Some of them will only be
 - Readings: <http://bit.ly/Readings_R_DATA_ANALYSIS>
 - Schedule: <http://bit.ly/Schedule_R_DATA_ANALYSIS>
 - Application for the course [online](https://goo.gl/forms/Y1OGDVQH70wExfhA2).
-
+- Contact: summer.course.2018.accra@gmail.com
  
 
 ###  Topics covered
