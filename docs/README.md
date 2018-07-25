@@ -1,7 +1,6 @@
 A 5 days summer course on data analysis and visualization in R.
 
 
-
 ### News
 
 - Sign up for the  [**google group**](https://groups.google.com/forum/#!forum/r-2018-accra) for future email communication.
@@ -13,6 +12,16 @@ A 5 days summer course on data analysis and visualization in R.
 
 ** days are postponed to the following week. Please see the calendar at the bottom for details.**
 
+#### Resources
+
+Please find additional information on the links below. Some of them will only be available / completed later.
+
+- Overview and details are on the [**course website**](https://vertesy.github.io/Exploratory-data-analysis-in-R/).
+- Readings: <http://bit.ly/Readings_R_DATA_ANALYSIS>
+- Schedule: <http://bit.ly/Schedule_R_DATA_ANALYSIS>
+- Application for the course [online](https://goo.gl/forms/Y1OGDVQH70wExfhA2).
+- Contact: summer.course.2018.accra _AT_ gmail.com
+ 
 
 
 ### Date, Time & Location
