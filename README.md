@@ -2,7 +2,14 @@
 
 ### News
 
-Join the [EDA - Exploratory data analysis in R course email group](https://groups.google.com/d/forum/r-2018-accra)!
+- Sign up for the  [**google group**](https://groups.google.com/forum/#!forum/r-2018-accra) for future email communication.
+- **Course materials** are online on google drive: [goo.gl/vMUXAk](http://goo.gl/vMUXAk)
+- Fill out the **Feedback** form, if you did not yet do it: https://goo.gl/forms/DDXXFoAuLIxKqz9e2
+- *Change in schedule due to the WACCBIP conference!**
+
+**The conference takes place 18-20 July, therefore the final final 2**
+
+** days are postponed to the following week. Please see the calendar at the bottom for details.**
 
 ### About the course
 
@@ -18,6 +25,17 @@ Please find additional information on the links below. Some of them will only be
 - Application for the course [online](https://goo.gl/forms/Y1OGDVQH70wExfhA2).
 - Contact: summer.course.2018.accra _AT_ gmail.com
  
+### Date, Time & Location
+
+Some details to be specified later.
+
+| Date \| Course A     | Mon, Wed, Fri →  Tue, Thu \|  9-19 July                      |
+| -------------------- | :----------------------------------------------------------- |
+| **Date \| Course B** | **Tue, Thu → Mon, Wed, Fri \|  10-20 July**                  |
+| **Time**             | Every other working day, 10AM-5PM  (+assignments for gap days) |
+| **Location**         | Accra campus of Uni. Ghana; Room **MPhil Lecture Hall.**     |
+
+
 
 ###  Topics covered
 
