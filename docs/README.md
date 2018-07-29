@@ -112,6 +112,8 @@ Some details to be specified later.
 
 ### Photos
 
+See photos from the B course in the [course album!](https://photos.app.goo.gl/NKYHtaVtty3aA6yw7)
+
 <script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/NKYHtaVtty3aA6yw7"
@@ -241,6 +243,10 @@ Some details to be specified later.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBzNlssG3M5Mija_mw8LZST1mgvLwBXo12czCNVgxE7iob1Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ### fb 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBzNlssG3M5Mija_mw8LZST1mgvLwBXo12czCNVgxE7iob1Q/viewanalytics?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+### fb2
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBzNlssG3M5Mija_mw8LZST1mgvLwBXo12czCNVgxE7iob1Q/viewanalytics?usp=form_confirm?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
