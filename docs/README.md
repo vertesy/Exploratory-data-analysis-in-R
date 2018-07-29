@@ -84,13 +84,21 @@ Some details to be specified later.
 
 #### Data
 
+(Might not display on certain browsers)
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNfb_SLNKmFq5_XMThoHX98bOFBTARbprK-qOyRWwBHZ_3nBjm4DjGNA5_CzTBPWTrWlJnSkdYhAod/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+### All Lectures:
 
-
-#### Visualization
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQStiYELmaU5BA9o0GWzv95Q7QMTUSluoXuu2Gd0qj5230rL9fR-n0HZsWtDJjbK-hQA1TzVSQJ7ovD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+- 00.Personal.Introduction
+- 01.Intro
+- 02.Data
+- 03.Visualisation.in.R
+- 04.Statistics
+- 05.Reporting.in.Markdown
+- 06.Text processing
+- 07.Machine Learning
+- 08.Vector.and.Pixel.graphics
 
 
 
@@ -238,20 +246,8 @@ See photos from the B course in the [course album!](https://photos.app.goo.gl/NK
 
 ### Feedback and Evaluation
 
-
+*Thanks for all your feedback on the course!*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBzNlssG3M5Mija_mw8LZST1mgvLwBXo12czCNVgxE7iob1Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-### fb 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBzNlssG3M5Mija_mw8LZST1mgvLwBXo12czCNVgxE7iob1Q/viewanalytics?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-### fb2
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBzNlssG3M5Mija_mw8LZST1mgvLwBXo12czCNVgxE7iob1Q/viewanalytics?usp=form_confirm?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-
-
-
-
-### 
+###
