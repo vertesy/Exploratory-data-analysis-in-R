@@ -18,6 +18,8 @@ Please find additional information on the links below. Some of them will only be
 - Readings: <http://bit.ly/Readings_R_DATA_ANALYSIS>
 - Application for the course [online](https://goo.gl/forms/Y1OGDVQH70wExfhA2). \[Closed\]
 
+
+
 ### Date, Time & Location
 
 Some details to be specified later.
@@ -86,7 +88,14 @@ Some details to be specified later.
 
 (Might not display on certain browsers)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNfb_SLNKmFq5_XMThoHX98bOFBTARbprK-qOyRWwBHZ_3nBjm4DjGNA5_CzTBPWTrWlJnSkdYhAod/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+[![Slides](https://snag.gy/8KUnYz.jpg)](https://docs.google.com/presentation/d/1CfcSKFP4FIBvpKawG_9Ee2sp9SRfjlORR-p3sJivt5A/edit?usp=sharing)
+
+<!--
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNfb_SLNKmFq5_XMThoHX98bOFBTARbprK-qOyRWwBHZ_3nBjm4DjGNA5_CzTBPWTrWlJnSkdYhAod/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+-->
+
+
 
 ### All Lectures:
 
@@ -100,11 +109,6 @@ Some details to be specified later.
 - 07.Machine Learning
 - 08.Vector.and.Pixel.graphics
 
-
-
-### Registration
-
-- Apply for the course [online](https://goo.gl/forms/kLacWZkMCS3B2hrG3).
 
 
 
