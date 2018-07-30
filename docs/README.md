@@ -8,9 +8,9 @@ In this course we will learn about some basic concepts is data analysis and will
 
 #### Resources
 
-- **Course materials** are online on google drive: [goo.gl/vMUXAk](http://goo.gl/vMUXAk)
+- **Course materials** are online on **[google drive](http://goo.gl/vMUXAk)**.
 - Sign up for the  [**google group**](https://groups.google.com/forum/#!forum/r-2018-accra) for future email communication.
-- Contact: summer.course.2018.accra _AT_ gmail.com
+- **Contact**: summer.course.2018.accra _AT_ gmail.com
 
 Please find additional information on the links below. Some of them will only be available / completed later.
 
@@ -28,7 +28,7 @@ Some details to be specified later.
 | -------------------- | :----------------------------------------------------------- |
 | **Date \| Course B** | **Tue, Thu → Mon, Wed, Fri \|  10-20 July**                  |
 | **Time**             | Every other working day, 10AM-5PM  (+assignments for gap days) |
-| **Location**         | Accra campus of Uni. Ghana; Room **MPhil Lecture Hall.**     |
+| **Location**         | Accra campus of Uni. Ghana; **Bioinformatics computer lab.** |
 
 
 
@@ -39,21 +39,23 @@ Some details to be specified later.
 
 ### Topics covered
 
-- R programming to explore and visualize data.
+- **R programming** basics to explore and visualize data.
 - Concepts and best practices in **data analysis**.
   - Why programming instead of Excel?
   - Data storage and data sharing
   - Metadata
   - Finding relationships between variables
   - Summarizing 
-  - Variation and statistics
 - Concepts and best practices in **visualization**.
   - Visualization for different goals
   - Showing summarized or raw data  
   - Scatterplots, bar plots, box plots, violin plots, strip charts,  pie charts, venn diagrams, etc.
   - Saturation
   - Making publishable figures
-  - Building entire, publishable reports from R
+- **Reporting**: Building entire, publishable reports from R
+- Some typical applications of **statistics** and **machine learning**.
+  - Descriptive and inferential statistics.
+  - Supervised and unsupervised learning.
 
 
 
@@ -61,7 +63,7 @@ Some details to be specified later.
 
 - <15 people.
 - Combination of lectures (powerpoint/slide based) and on-hands programming in a computer lab / own laptop in R.
-- The course is every other day**, you will have programming assignments for the gap days**.
+- The course is every other day, you will have programming assignments for the gap days.
 
 
 
@@ -81,10 +83,10 @@ Some details to be specified later.
 
 #### During the course
 
-- **Course materials** are online on google drive: [goo.gl/vMUXAk](http://goo.gl/vMUXAk) (and will remain so after the course).
+- **Course materials** are online on [google drive]([goo.gl/vMUXAk) (and will remain so after the course).
 - You find the source code for each day's analysis, or you can view the slides online, see examples:
 
-#### Data
+#### Examples slides: Data
 
 (Might not display on certain browsers)
 
@@ -97,7 +99,7 @@ Some details to be specified later.
 
 
 
-### All Lectures:
+#### All lectures in the course:
 
 - 00.Personal.Introduction
 - 01.Intro
@@ -250,8 +252,12 @@ See photos from the B course in the [course album!](https://photos.app.goo.gl/NK
 
 ### Feedback and Evaluation
 
-*Thanks for all your feedback on the course!*
+*Thanks for all your feedback on the course! I will try to improve the next course based on your feedback*
+*Please see the course evaluation results below (follow the link to results).*
+
+
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBzNlssG3M5Mija_mw8LZST1mgvLwBXo12czCNVgxE7iob1Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-###
+##
